@@ -4,10 +4,8 @@ This wouldve saved me a lot of time xD
 TODO:
   1. try initialization schemes mentioned in the paper
   2. how to prevent nans
-  3. two params                          done
+  3. two params                          (done)
   4. why isnt snake more common?
   5. compare against relu and co (some experiments in the paper left this out)
   6. fastai version?
   
-DONE:
-  1. two params
